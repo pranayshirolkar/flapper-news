@@ -1,3 +1,5 @@
+.idea
+##################Below were added by github on selecting 'Node' from the .gitignore dropdown###############################
 # Logs
 logs
 *.log
